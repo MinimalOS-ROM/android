@@ -51,8 +51,7 @@
 	<project name="LineageOS-Revived/android_frameworks_libs_net" path="frameworks/libs/net" />
 
 	<!-- Launcher -->
-	<remove-project name="LineageOS/android_packages_apps_Trebuchet" />
-	<project name="LineageOS-Revived/android_packages_apps_Trebuchet" path="packages/apps/Trebuchet" groups="lineage" />
+	<!-- Overridden by MinimalOS-ROM -->
 
 	<remove-project name="platform/frameworks/libs/systemui" />
 	<project name="LineageOS-Revived/android_frameworks_libs_systemui" path="frameworks/libs/systemui" />
@@ -77,8 +76,7 @@
 	<remove-project name="LineageOS/android_packages_apps_Contacts" />
 	<project name="LineageOS-Revived/android_packages_apps_Contacts" path="packages/apps/Contacts" groups="lineage" />
 
-	<remove-project name="LineageOS/android_packages_apps_Dialer" />
-	<project name="LineageOS-Revived/android_packages_apps_Dialer" path="packages/apps/Dialer" groups="lineage" />
+	<!-- Overridden by MinimalOS-ROM -->
 
 	<remove-project name="LineageOS/android_packages_apps_Messaging" />
 	<project name="LineageOS-Revived/android_packages_apps_Messaging" path="packages/apps/Messaging" groups="lineage" />
@@ -103,8 +101,7 @@
 	<remove-project name="LineageOS/android_packages_overlays_Lineage" />
 	<project name="LineageOS-Revived/android_vendor_addons" path="vendor/addons" />
 
-	<remove-project name="LineageOS/android_frameworks_base" />
-	<project name="LineageOS-Revived/android_frameworks_base" path="frameworks/base" groups="lineage" />
+	<!-- Overridden by MinimalOS-ROM -->
 
 	<remove-project name="LineageOS/android_packages_inputmethods_LatinIME" />
 	<project name="LineageOS-Revived/android_packages_inputmethods_LatinIME" path="packages/inputmethods/LatinIME" groups="lineage" />

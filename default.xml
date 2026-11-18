@@ -15,7 +15,7 @@
 
   <remote  name="minimal"
            fetch="https://github.com/MinimalOS-ROM/"
-           revision="refs/heads/minimal-19.1" />
+           revision="refs/heads/minimal-1.0" />
 
   <default revision="refs/heads/lineage-19.1"
            remote="github"

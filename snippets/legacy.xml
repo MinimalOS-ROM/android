@@ -72,13 +72,11 @@
 	<project name="crdroidandroid/android_external_libvpx" path="external/libvpx" revision="12.1" groups="lineage" />
 
 	<!-- Updated Apps -->
-	<remove-project name="LineageOS/android_packages_apps_Contacts" />
-	<project name="LineageOS-Revived/android_packages_apps_Contacts" path="packages/apps/Contacts" groups="lineage" />
+	<!-- Overridden by MinimalOS-ROM -->
 
 	<!-- Overridden by MinimalOS-ROM -->
 
-	<remove-project name="LineageOS/android_packages_apps_Messaging" />
-	<project name="LineageOS-Revived/android_packages_apps_Messaging" path="packages/apps/Messaging" groups="lineage" />
+	<!-- Overridden by MinimalOS-ROM -->
 
 	<remove-project name="LineageOS/android_packages_apps_Etar" />
 	<project name="LineageOS-Revived/android_packages_apps_Etar" path="packages/apps/Etar" groups="lineage" />
